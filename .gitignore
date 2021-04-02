@@ -1,0 +1,19 @@
+HELP.md
+target/
+/target/
+*/target/**
+**/META-INF/
+!.mvn/wrapper/maven-wrapper.jar
+!**/src/main/**/target/
+!**/src/test/**/target/
+src/test/resources/
+allure-results/
+allure-report
+
+# IntelliJ IDEA test
+.idea
+*.iws
+*.iml
+*.ipr
+.github
+
